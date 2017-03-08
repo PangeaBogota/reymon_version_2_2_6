@@ -41,7 +41,7 @@
         Define a specific version of PhoneGap to build into your app.
         <preference name="phonegap-version"       value="3.5.0" />
     -->
-<preference name="phonegap-version"       value="cli-5.4.1" />
+<preference name="phonegap-version"       value="cli-6.3.1" />
     <!-- Plugins -->
 
 
@@ -81,7 +81,7 @@
     <gap:splash src="res/screen/windows-phone/screen-portrait.jpg"      gap:platform="winphone" />
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-    <string>100</string>
+    <string>130</string>
     </gap:config-file>
 
     <!--
